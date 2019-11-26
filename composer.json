@@ -1,0 +1,11 @@
+{
+	"require":{
+		"nfephp-org/nfephp":"^4.0",
+		"nfephp-org/sped-nfe": "^5.0"
+	},
+	"config": {
+		"platform": {
+			"php": "7.3.1"
+		}
+	}
+}

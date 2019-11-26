@@ -1,0 +1,87 @@
+{
+    "atualizacao":"2016-01-01 00:00:00",
+    "tpAmb":"2",
+    "vApp":"1.0",
+    
+    "pathNFeFiles":"nfe\/files\/nfe",
+    
+    "pathCertsFiles":"nfe\/cert\/",
+    "siteUrl":"http:\/\/localhost/mygle/",
+    
+    "cnpj":"123456789012345",
+    "razaosocial":"Mygle Corporation",
+    "nomefantasia":"Mygle Corporation",
+    "ie":"999999",
+    "iest":"999999",
+    "im":"999999",
+    "cnae":"7220-6/00",
+    "regime":"1",
+
+    "xLgr":"Av. Rio de Janeiro",
+    "nro":"s/n",
+    "xCpl":"Qd. 38 Lt. 4,5 e 34",
+    "xBairro":"Jardim Pinheiros I",
+    "xMun":"Aguas Lindas de Goiás",    
+    "UF":"GO",
+    "siglaUF":"PB",
+    "CEP":"...",
+    "xPais":"..",
+    "fone":"...",
+    "cPais":"1058",
+    "cUF":"25",
+    "cMun":"2504009",
+
+    "nfeVersao":"3.10",
+
+    "certPfxName":"seu_certificado.pfx",
+    "certPassword":"1234",
+    "certPhrase":"",
+
+    "aDocFormat":{
+        "format":"P",
+        "paper":"A4",
+        "southpaw":"1",
+        "pathLogoFile":"assets\/images\/logo.jpg",
+        "logoPosition":"L",
+        "font":"Times",
+        "printer":"hpteste"
+    },
+
+    "pathXmlUrlFileNFe":"nfe_ws3_mod55.xml",
+    "pathXmlUrlFileCTe":"cte_ws1.xml",
+    "pathXmlUrlFileMDFe":"mdfe_ws1.xml",
+    "pathXmlUrlFileCLe":"cle_ws1.xml",
+    "pathXmlUrlFileNFSe":"",
+    "schemesNFe":"PL_008h2",
+    "schemesCTe":"PL_CTE_104",
+    "schemesMDFe":"MDFe_100",
+    "schemesCLe":"CLe_100",
+    "schemesNFSe":"",
+    "tokenIBPT":"AAAAAAA",
+    "tokenNFCe":"GPB0JBWLUR6HWFTVEAS6RJ69GPCROFPBBB8G",
+    "tokenNFCeId":"000002",
+    "aMailConf":{
+        "mailAuth":"1",
+        "mailFrom":"admin@myapp.local",
+        "mailSmtp":"smtp.myapp.local",
+        "mailUser":"admin@myapp.local",
+        "mailPass":"123",
+        "mailProtocol":"ssl",
+        "mailPort":"587",
+        "mailFromMail":null,
+        "mailFromName":null,
+        "mailReplayToMail":null,
+        "mailReplayToName":null,
+        "mailImapHost":null,
+        "mailImapPort":null,
+        "mailImapSecurity":null,
+        "mailImapNocerts":null,
+        "mailImapBox":null
+    },
+    "aProxyConf":{
+        "proxyIp":"",
+        "proxyPort":"",
+        "proxyUser":"",
+        "proxyPass":""
+    }
+}
